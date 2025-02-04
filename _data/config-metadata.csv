@@ -1,15 +1,19 @@
 field,display_name,browse_link,external_link
+accessionnumber,Accession Number,
 title,Title,
 creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
+photographer,Photographer,
+source,Source,
+datecreated,Date Created,
+date,Date,
 format,Format,
+process,Process,
+objectformat,Object Format,
+dimensions,Dimensions,
+description,Description,
+internalnote,Internal Note,
+inscriptionnote,Inscription Note,
+subjects,Subjects,true
+location,Location,true
+archivist,Archivist,
 rights,Rights,
-rightsstatement,Rights Statement,,true
