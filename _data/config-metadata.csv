@@ -13,7 +13,7 @@ dimensions,Dimensions,
 description,Description,
 internalnote,Internal Note,
 inscriptionnote,Inscription Note,
-subjects,Subjects,true
+subject,Subjects,true
 location,Location,true
 archivist,Archivist,
 rights,Rights,
