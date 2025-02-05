@@ -1,7 +1,15 @@
 field,index,display
 title,true,true
 date,true,true
-creator,true,false
+creator,true,true
 description,true,true
 subject,true,true
-location,true,false
+location,true,true
+accessionnumber,true,true
+photographer,true,true
+source,true,true
+datecreated,true,true
+objectformat,true,true
+internalnote,true,true
+inscriptionnote,true,true
+archivist,true,true
