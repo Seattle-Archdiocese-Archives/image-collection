@@ -1,5 +1,6 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
+datecreated,Date Created
+date,,,true,Date
+accessionnumber,Accession Number,,,Accession Number
+subject,,true,,Subject
+location,,true,,Location
