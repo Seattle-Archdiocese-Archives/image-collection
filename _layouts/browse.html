@@ -33,9 +33,36 @@ custom-foot: js/browse-js.html
         </div>
     </div>
 </div>
-
+<div class="container-fluid">
+  <div class="row">
+    <div class="d-none d-md-block col-md-3">
+      <div class="accordion" id="accordionExample">
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingOne">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+              Collection Type
+            </button>
+          </h2>
+          <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+              {% assign mapped_ctypes = site.data[site.metadata] | map: "collection" | compact | uniq %}{% capture included_ctypes %}{% for s in mapped_ctypes %}{{s}}  {% endfor %}{% endcapture %}
+              
+                {% for ctype in site.data.collection%} {% if included_ctypes contains ctype.title %}
+                <a href="#{{ctype.title}}" class="btn btn-outline-dark btn-sm m-1">{{ctype.title}}</a>
+                {% endif %}
+      
+                {% endfor %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-md-9 pl-5">
+      <div class="row" id="browseItems"></div>
+    </div>
+  </div>
+</div>
 <div id="loadingIcon" class="text-center">
     <div class="spinner-border text-dark" role="status"><span class="visually-hidden">Loading...</span></div>
 </div>
 
-<div class="row" id="browseItems"></div>
