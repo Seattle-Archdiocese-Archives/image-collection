@@ -4,3 +4,4 @@ date,,,true,Date
 accessionnumber,Accession Number,,,Accession Number
 subject,,true,,Subject
 location,,true,,Location
+collection,,true,
