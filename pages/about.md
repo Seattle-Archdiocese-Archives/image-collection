@@ -33,7 +33,7 @@ We have made a small portion of our visual image collection available online her
 
 Currently Available:
 
-### RG. 700 Parishes
+### [RG. 700 Parishes](https://seattle-archdiocese-archives.github.io/image-collection/browse.html#Parishes)
 
 The images in this collection document the cultural life of Catholic church communities throughout the Archdiocese of Seattle as well as churches and buildings of parishes, missions, and stations. 
 
