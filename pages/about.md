@@ -39,7 +39,7 @@ The images in this collection document the cultural life of Catholic church comm
 
 [RG1060: Seminaries](https://seattle-archdiocese-archives.github.io/image-collection/browse.html#Seminaries)
 
-Images of the Sulpician Seminaries of the Northwest: St. Edwards Seminary, which was established in 1931 and closed in 1976, and St. Thomas Seminary, which operated 1958-1977. The seminaries were located in Kenmore, Washington. 
+Images of the Sulpician Seminaries of the Northwest: St. Edwards Seminary, which was established in 1931 and closed in 1976; and St. Thomas Seminary, which operated 1958-1977. The seminaries were located in Kenmore, Washington. 
 
 ## For More Information
 
