@@ -28,14 +28,14 @@ The [Archives](https://archseattle.org/about-the-archdiocese-of-seattle/archives
 
 ## About the Image Collections
 
-We have made a small portion of our visual image collection available online here for searching and browsing. 
+A very small selection of our visual image collection has been scanned and cataloged. We have made these available here for searching browsing.
 
 
 Currently Available:
 
 [RG700: Parishes](https://seattle-archdiocese-archives.github.io/image-collection/browse.html#Parishes)
 
-The images in this collection document the cultural life of Catholic church communities throughout the Archdiocese of Seattle as well as churches and buildings of parishes, missions, and stations. 
+Images of Catholic church communities in the Archdiocese of Seattle. Included are depictions of events, people, churches and buildings of parishes, missions, and stations. Please note that not all parishes have been cataloged at this time. 
 
 [RG1060: Seminaries](https://seattle-archdiocese-archives.github.io/image-collection/browse.html#Seminaries)
 
