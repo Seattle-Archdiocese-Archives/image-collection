@@ -41,6 +41,10 @@ Images of Catholic church communities in the Archdiocese of Seattle. Included ar
 
 Images of the Sulpician Seminaries of the Northwest: St. Edwards Seminary, which was established in 1931 and closed in 1976; and St. Thomas Seminary, which operated 1958-1977. The seminaries were located in Kenmore, Washington. 
 
+[RG1500: Private Donors - Drawings of Peter Beaulieu](https://seattle-archdiocese-archives.github.io/image-collection/browse.html#Beaulieu)
+
+Pen and ink drawings of churches, chapels, shrines, and statuary in the Pacific Northwest by architect and planner Peter Beaulieu.
+
 ## For More Information
 
 Please visit the Archives Website at <https://archseattle.org/about-the-archdiocese-of-seattle/archives-and-records-management-public/> or email us at <archives@seattlearch.org>
